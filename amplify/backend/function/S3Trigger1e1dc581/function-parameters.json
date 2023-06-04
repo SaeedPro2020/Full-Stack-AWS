@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "storage": {
+      "dynamoStudents": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  }
+}

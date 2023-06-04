@@ -1,0 +1,10 @@
+{
+  "resourceName": "dynamoStudents",
+  "tableName": "dynamoStudents",
+  "partitionKey": {
+    "fieldName": "SubmittedAnswerId",
+    "fieldType": "number"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}

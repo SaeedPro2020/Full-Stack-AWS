@@ -1,0 +1,14 @@
+{
+  "resourceName": "studentsImg",
+  "policyUUID": "4e3d6260",
+  "bucketName": "students",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "groupAccess": {},
+  "triggerFunction": "S3Trigger1e1dc581"
+}
